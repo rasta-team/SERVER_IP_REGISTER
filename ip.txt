@@ -1,6 +1,6 @@
-#xendra
+#xendra- Digital Ocean
 45.32.123.30
 
-#myserver.net-nawfal
+#myserver.net-Vultr
 45.77.240.42
-45.76.186.150
+45.32.103.3
