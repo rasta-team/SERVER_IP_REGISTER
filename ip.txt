@@ -1,2 +1,5 @@
 #xendra
 45.32.123.30
+
+#myserver.net-nawfal
+45.77.240.42
