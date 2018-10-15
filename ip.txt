@@ -21,3 +21,6 @@ Server PC
 192.168.0.111
 175.142.159.74
 tmunifi.ddns.net
+
+NewServer-Umobile
+172.104.190.102
